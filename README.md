@@ -15,6 +15,4 @@ Methods used are:
 <pre>
 map_segment [-h] -t input_image 
     -t : Target Image (t)
-
-
             </pre>
